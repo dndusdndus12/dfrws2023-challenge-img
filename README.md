@@ -1,5 +1,5 @@
 # dfrws2023-challenge-img
 
-[![Figure1 static](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)]
+![Figure1 static](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)
 
-[![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)]
+[![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)](http://people.vcu.edu/~iahmed3/)
